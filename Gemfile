@@ -1,0 +1,13 @@
+source "http://rubygems.org"
+
+gem "capybara", "~> 3.14.0"
+gem "certified"
+gem "cucumber"
+gem "faker"
+gem "httparty"
+gem "javascript"
+gem "json"
+gem "pry"
+gem "rspec"
+gem "selenium-webdriver", "~> 3.141.0"
+gem "site_prism"
